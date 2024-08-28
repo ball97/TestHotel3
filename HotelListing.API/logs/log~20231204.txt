@@ -1,0 +1,19 @@
+2023-12-04 17:29:53.244 +07:00 [INF] Now listening on: https://localhost:7279
+2023-12-04 17:29:53.303 +07:00 [INF] Now listening on: http://localhost:5219
+2023-12-04 17:29:53.306 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-04 17:29:53.307 +07:00 [INF] Hosting environment: Development
+2023-12-04 17:29:53.309 +07:00 [INF] Content root path: D:\Learning\HotelListing.API\HotelListing.API
+2023-12-04 17:31:20.480 +07:00 [INF] HTTP POST /api/Countries responded 400 in 480.7912 ms
+2023-12-04 17:31:30.357 +07:00 [INF] HTTP POST /api/Countries responded 201 in 2144.5932 ms
+2023-12-04 17:34:31.030 +07:00 [INF] HTTP GET /favicon.ico responded 404 in 0.4066 ms
+2023-12-04 17:38:06.131 +07:00 [INF] Now listening on: https://localhost:7279
+2023-12-04 17:38:06.162 +07:00 [INF] Now listening on: http://localhost:5219
+2023-12-04 17:38:06.165 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-04 17:38:06.166 +07:00 [INF] Hosting environment: Development
+2023-12-04 17:38:06.166 +07:00 [INF] Content root path: D:\Learning\HotelListing.API\HotelListing.API
+2023-12-04 17:39:12.009 +07:00 [INF] Now listening on: https://localhost:7279
+2023-12-04 17:39:12.039 +07:00 [INF] Now listening on: http://localhost:5219
+2023-12-04 17:39:12.042 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-04 17:39:12.043 +07:00 [INF] Hosting environment: Development
+2023-12-04 17:39:12.043 +07:00 [INF] Content root path: D:\Learning\HotelListing.API\HotelListing.API
+2023-12-04 17:40:34.254 +07:00 [INF] HTTP GET /api/Countries/1 responded 200 in 1333.0591 ms

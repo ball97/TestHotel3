@@ -1,0 +1,8 @@
+2023-12-12 17:59:54.359 +07:00 [INF] Now listening on: https://localhost:7279
+2023-12-12 17:59:54.780 +07:00 [INF] Now listening on: http://localhost:5219
+2023-12-12 17:59:54.783 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-12-12 17:59:54.784 +07:00 [INF] Hosting environment: Development
+2023-12-12 17:59:54.784 +07:00 [INF] Content root path: D:\Learning\HotelListing.API\HotelListing.API
+2023-12-12 18:04:09.903 +07:00 [INF] HTTP POST /api/Accounts/register responded 200 in 2973.7842 ms
+2023-12-12 18:04:15.154 +07:00 [INF] HTTP POST /api/Accounts/register responded 400 in 141.6877 ms
+2023-12-12 18:05:13.822 +07:00 [INF] HTTP POST /api/Accounts/register responded 400 in 65.7302 ms
